@@ -2,7 +2,6 @@ import datetime
 import os
 from dotenv import load_dotenv
 import psycopg2
-from psycopg2 import Error
 import pandas as pd
 from sys import argv
 
