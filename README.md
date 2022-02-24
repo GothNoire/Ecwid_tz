@@ -1,8 +1,8 @@
 # Ecwid_tz
 
-usage:
-
 pip install -r requirements.txt
+
+for example:
 
 First script:
 
